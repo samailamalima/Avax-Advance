@@ -6,12 +6,15 @@ Defi Empire is an exciting blockchain-based gaming experience where players can 
 
 ## Table of Contents
 
-- [Prerequisites](#prerequisites)
-- [Project Steps](#project-steps)
-- [Smart Contracts](#smart-contracts)
-- [Usage](#usage)
-- [Author](#author)
-- [License](#license)
+- [DeFi Empire: DeFi Kingdom Clone on Avalanche](#defi-empire-defi-kingdom-clone-on-avalanche)
+  - [Overview](#overview)
+  - [Table of Contents](#table-of-contents)
+  - [Prerequisites](#prerequisites)
+  - [Project Steps](#project-steps)
+  - [Smart Contracts](#smart-contracts)
+  - [Usage](#usage)
+  - [Author](#author)
+  - [License](#license)
 
 ## Prerequisites
 
@@ -63,7 +66,7 @@ To start your DeFi Kingdom adventure, follow these steps:
 
 ## Author
 
-[Michael](https://github.com/m-azra3l)
+[Samaila Anthony Malima](https://github.com/samailamalima)
 
 ## License
 
